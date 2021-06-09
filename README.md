@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="http://feedback.frontendchecklist.io/">Roadmap</a> • <a href="https://www.producthunt.com/posts/front-end-performance-checklist">Product Hunt</a>
+  <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="https://www.producthunt.com/posts/front-end-performance-checklist">Product Hunt</a>
 </p>
 
 <p align="center">
@@ -33,6 +33,7 @@
   <a href="https://github.com/fernandofawkes/Front-End-Performance-Checklist">🇵🇹</a>
   <a href="https://github.com/lex111/Front-End-Performance-Checklist">🇷🇺</a>
   <a href="https://github.com/GameWith/Front-End-Performance-Checklist">🇯🇵</a>
+  <a href="https://github.com/ms-fadaei/Front-End-Performance-Checklist">🇮🇷</a>
 </p>
 
 <p align="center">
@@ -40,16 +41,6 @@
     <br>
   🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Checklist</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Design Checklist</a>
 </p>
-
-## Table of Contents
-
-1. **[HTML](#html)**
-2. **[CSS](#css)**
-3. **[Fonts](#fonts)**
-4. **[Images](#images)**
-5. **[JavaScript](#javascript)**
-6. **[Server](#server) (in progress)**
-7. **[JS Frameworks](#performances-and-js-frameworks) (in progress)**
 
 ## Introduction
 
@@ -92,6 +83,7 @@ List of the tools you can use to test or monitor your website or application:
  * 🛠 [DebugBear - Monitor website performance and Lighthouse scores](https://www.debugbear.com/)
  * 🛠 [packtracker.io - Check your webpack bundle size on every pull request.](https://packtracker.io/)
  * 🛠 [Exthouse - Analyze the impact of a browser extension on web performance](https://github.com/treosh/exthouse)
+ * 🛠 [LogRocket - Measure front-end performance in production apps](https://logrocket.com)
 
 ### References
 
@@ -100,7 +92,7 @@ List of the tools you can use to test or monitor your website or application:
  * 📖 [Get Started With Analyzing Runtime Performance  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
  * 📖 [State of the Web | 2018_01_01](https://httparchive.org/reports/state-of-the-web?start=2018_01_01)
  * 📖 [Page Weight Doesn't Matter](https://www.speedshop.co/2015/11/05/page-weight-doesnt-matter.html)
- * 📖 [Front-End Performance Checklist 2018 [PDF, Apple Pages]](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+ * 📖 [Front-End Performance Checklist 2021 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
  * 📖 [Designing for Performance Weighing Aesthetics and Speed - By Lara Callender Hogan [eBook, Print]](http://designingforperformance.com/index.html)
  * 📖 [Varvy - Web performance glossary](https://varvy.com/performance/)
  * 📖 [fabkrum/web-performance-resources: Up to date collection of valuable web performance resources](https://github.com/fabkrum/web-performance-resources)
@@ -176,6 +168,7 @@ List of the tools you can use to test or monitor your website or application:
     > ⁃ Use tools to minify your files automatically before or during your build or your deployment.
 
     * 🛠 [cssnano: A modular minifier based on the PostCSS ecosystem. - cssnano](https://cssnano.co/)
+    * 🛠 [CSS Minfier](https://goonlinetools.com/css-minifier/)
     * 🛠 [@neutrinojs/style-minify - npm](https://www.npmjs.com/package/@neutrinojs/style-minify)
     * 🛠 [Online CSS Compressor](http://refresh-sf.com)
 
@@ -635,9 +628,10 @@ The Front-End Performance Checklist wants to also be available in other language
 * 🇫🇷 French: [WilliamDASILVA/Front-End-Performance-Checklist](https://github.com/WilliamDASILVA/Front-End-Performance-Checklist)
 * 🇰🇷 Korean: [ParkSB/Front-End-Performance-Checklist](https://github.com/ParkSB/Front-End-Performance-Checklist)
 * 🇪🇸 Spanish: [dagerzuga/Front-End-Performance-Checklist](https://github.com/dagerzuga/Front-End-Performance-Checklist)
-* 🇻🇮 Vietnamese : [huynhan147/Front-End-Performance-Checklist](https://github.com/huynhan147/FrontEnd-Performance-Checklist)
+* 🇻🇳 Vietnamese : [huynhan147/Front-End-Performance-Checklist](https://github.com/huynhan147/FrontEnd-Performance-Checklist)
 * 🇯🇵 Japanese: [GameWith/Front-End-Performance-Checklist](https://github.com/GameWith/Front-End-Performance-Checklist)
 * 🇵🇱 Polish: [mbiesiad/Front-End-Performance-Checklist](https://github.com/mbiesiad/Front-End-Performance-Checklist)
+* 🇮🇷 Persian: [ms-fadaei/Front-End-Performance-Checklist](https://github.com/ms-fadaei/Front-End-Performance-Checklist)
 
 ## Contributing
 
